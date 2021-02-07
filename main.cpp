@@ -2,7 +2,7 @@
 
 init Policz(int a, int b)
 {
-    return a*b;
+    return (a+b)*(a-b);
 }
 
 int main() {
